@@ -1,0 +1,14 @@
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioBasico02\obj\Debug\net6.0\EjercicioBasico02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioBasico02\obj\Debug\net6.0\EjercicioBasico02.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioBasico02\obj\Debug\net6.0\EjercicioBasico02.AssemblyInfo.cs
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioBasico02\obj\Debug\net6.0\EjercicioBasico02.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioBasico02\bin\Debug\net6.0\EjercicioBasico02.exe
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioBasico02\bin\Debug\net6.0\EjercicioBasico02.deps.json
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioBasico02\bin\Debug\net6.0\EjercicioBasico02.runtimeconfig.json
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioBasico02\bin\Debug\net6.0\EjercicioBasico02.dll
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioBasico02\bin\Debug\net6.0\EjercicioBasico02.pdb
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioBasico02\obj\Debug\net6.0\EjercicioBasico02.dll
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioBasico02\obj\Debug\net6.0\refint\EjercicioBasico02.dll
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioBasico02\obj\Debug\net6.0\EjercicioBasico02.pdb
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioBasico02\obj\Debug\net6.0\EjercicioBasico02.genruntimeconfig.cache
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioBasico02\obj\Debug\net6.0\ref\EjercicioBasico02.dll

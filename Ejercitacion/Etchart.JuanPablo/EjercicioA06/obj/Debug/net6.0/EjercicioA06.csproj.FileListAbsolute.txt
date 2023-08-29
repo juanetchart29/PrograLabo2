@@ -1,0 +1,14 @@
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioA06\obj\Debug\net6.0\EjercicioA06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioA06\obj\Debug\net6.0\EjercicioA06.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioA06\obj\Debug\net6.0\EjercicioA06.AssemblyInfo.cs
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioA06\obj\Debug\net6.0\EjercicioA06.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioA06\bin\Debug\net6.0\EjercicioA06.exe
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioA06\bin\Debug\net6.0\EjercicioA06.deps.json
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioA06\bin\Debug\net6.0\EjercicioA06.runtimeconfig.json
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioA06\bin\Debug\net6.0\EjercicioA06.dll
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioA06\bin\Debug\net6.0\EjercicioA06.pdb
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioA06\obj\Debug\net6.0\EjercicioA06.dll
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioA06\obj\Debug\net6.0\refint\EjercicioA06.dll
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioA06\obj\Debug\net6.0\EjercicioA06.pdb
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioA06\obj\Debug\net6.0\EjercicioA06.genruntimeconfig.cache
+C:\Users\Juan Pablo Etchart\Desktop\Progra y Labo II\Etchart.JuanPablo\EjercicioA06\obj\Debug\net6.0\ref\EjercicioA06.dll
