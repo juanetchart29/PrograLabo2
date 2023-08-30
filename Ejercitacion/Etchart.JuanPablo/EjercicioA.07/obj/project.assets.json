@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan Pablo Etchart\\Desktop\\Progra y Labo II\\Etchart.JuanPablo\\EjercicioA.07\\EjercicioA.07.csproj",
+      "projectUniqueName": "C:\\Users\\Juan Pablo Etchart\\Desktop\\PrograLabo2\\Ejercitacion\\Etchart.JuanPablo\\EjercicioA.07\\EjercicioA.07.csproj",
       "projectName": "EjercicioA.07",
-      "projectPath": "C:\\Users\\Juan Pablo Etchart\\Desktop\\Progra y Labo II\\Etchart.JuanPablo\\EjercicioA.07\\EjercicioA.07.csproj",
+      "projectPath": "C:\\Users\\Juan Pablo Etchart\\Desktop\\PrograLabo2\\Ejercitacion\\Etchart.JuanPablo\\EjercicioA.07\\EjercicioA.07.csproj",
       "packagesPath": "C:\\Users\\Juan Pablo Etchart\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan Pablo Etchart\\Desktop\\Progra y Labo II\\Etchart.JuanPablo\\EjercicioA.07\\obj\\",
+      "outputPath": "C:\\Users\\Juan Pablo Etchart\\Desktop\\PrograLabo2\\Ejercitacion\\Etchart.JuanPablo\\EjercicioA.07\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
