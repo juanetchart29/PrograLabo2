@@ -9,25 +9,43 @@
 //a cobrar en bruto, el total de descuentos y el valor neto a cobrar de todos los
 //empleados ingresados.
 //Nota: Utilizar estructuras repetitivas y selectivas.
+using System.Runtime.InteropServices;
+
 internal class Program
 {
     private static void Main(string[] args)
     {
+        
+        int valorAntiguedad = 15000;
+        int descuento = 13;
+        int sueldoBruto;
+        float sueldoFinal;
+        string nombre;
+        int antiguedad;
+        int valorHora;
         while (true) 
         {
             Console.WriteLine("Ingrese el valor por hora:");
-            string valorHora = Console.ReadLine();
+            valorHora = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese el nombre:");
-            string nombre = Console.ReadLine();
+            nombre = Console.ReadLine();
             Console.WriteLine("Ingrese la antiguedad(años):");
-            string antiguedad = Console.ReadLine();
+            antiguedad = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese la cantidad de horas trabajadas en el mes :");
-            string horasTabajadas = Console.ReadLine();
+            int horasTabajadas = int.Parse(Console.ReadLine());
 
 
+            sueldoBruto = horasTabajadas * valorHora + antiguedad *valorAntiguedad;
 
+            sueldoFinal = sueldoBruto - sueldoBruto * descuento / 100;
 
-
+            Console.WriteLine("------Facturacion-------");
+            Console.WriteLine($"Empleado: {nombre}");
+            Console.WriteLine($"La antiguedad que tiene en la empresa es: {antiguedad}");
+            Console.WriteLine($"Valor * hora: {valorHora}");
+            Console.WriteLine($"Sueldo bruto: {sueldoBruto}");
+            Console.WriteLine($"Descuento: %{descuento}");
+            Console.WriteLine($"Sueldo final: {sueldoFinal}");
 
             Console.WriteLine("Deseas ingresar otro empleado?:");
             string respuesta = Console.ReadLine();
@@ -37,6 +55,7 @@ internal class Program
             }        
 
         }
+
 
 
 

@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan Pablo Etchart\\Desktop\\PrograLabo2\\Ejercitacion\\Etchart.JuanPablo\\EjercicioI.01\\EjercicioI.01.csproj",
-      "projectName": "EjercicioI.01",
-      "projectPath": "C:\\Users\\Juan Pablo Etchart\\Desktop\\PrograLabo2\\Ejercitacion\\Etchart.JuanPablo\\EjercicioI.01\\EjercicioI.01.csproj",
+      "projectUniqueName": "C:\\Users\\Juan Pablo Etchart\\Desktop\\PrograLabo2\\Ejercitacion\\Etchart.JuanPablo\\EjercicioI.01\\Ejerciciob.01.csproj",
+      "projectName": "Ejerciciob.01",
+      "projectPath": "C:\\Users\\Juan Pablo Etchart\\Desktop\\PrograLabo2\\Ejercitacion\\Etchart.JuanPablo\\EjercicioI.01\\Ejerciciob.01.csproj",
       "packagesPath": "C:\\Users\\Juan Pablo Etchart\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Juan Pablo Etchart\\Desktop\\PrograLabo2\\Ejercitacion\\Etchart.JuanPablo\\EjercicioI.01\\obj\\",
       "projectStyle": "PackageReference",
