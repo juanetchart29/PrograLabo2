@@ -15,7 +15,7 @@ internal class Program
         Console.WriteLine($"la diferencia es {luciano.ObtenerDiferencia()}");
         Console.WriteLine($"la diferencia es {mariano.ObtenerDiferencia()}");
         Console.WriteLine($"la diferencia es {luis.ObtenerDiferencia()}");
-
+        // pasar lo de mlis a milis.0000 porque pasa mas rrapido
         Console.WriteLine(Creadora.obtenerCantidadObjetosCreados());
     }
 }
