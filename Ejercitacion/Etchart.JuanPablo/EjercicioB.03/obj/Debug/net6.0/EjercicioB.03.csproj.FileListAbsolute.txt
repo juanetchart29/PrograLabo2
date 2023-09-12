@@ -12,3 +12,17 @@ C:\Users\Juan Pablo Etchart\Desktop\PrograLabo2\Ejercitacion\Etchart.JuanPablo\E
 C:\Users\Juan Pablo Etchart\Desktop\PrograLabo2\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\obj\Debug\net6.0\EjercicioB.03.pdb
 C:\Users\Juan Pablo Etchart\Desktop\PrograLabo2\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\obj\Debug\net6.0\EjercicioB.03.genruntimeconfig.cache
 C:\Users\Juan Pablo Etchart\Desktop\PrograLabo2\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\obj\Debug\net6.0\ref\EjercicioB.03.dll
+C:\Users\Juan Pablo Etchart\Desktop\Progra 2\Ejercitacion\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\bin\Debug\net6.0\EjercicioB.03.exe
+C:\Users\Juan Pablo Etchart\Desktop\Progra 2\Ejercitacion\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\bin\Debug\net6.0\EjercicioB.03.deps.json
+C:\Users\Juan Pablo Etchart\Desktop\Progra 2\Ejercitacion\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\bin\Debug\net6.0\EjercicioB.03.runtimeconfig.json
+C:\Users\Juan Pablo Etchart\Desktop\Progra 2\Ejercitacion\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\bin\Debug\net6.0\EjercicioB.03.dll
+C:\Users\Juan Pablo Etchart\Desktop\Progra 2\Ejercitacion\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\bin\Debug\net6.0\EjercicioB.03.pdb
+C:\Users\Juan Pablo Etchart\Desktop\Progra 2\Ejercitacion\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\obj\Debug\net6.0\EjercicioB.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo Etchart\Desktop\Progra 2\Ejercitacion\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\obj\Debug\net6.0\EjercicioB.03.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo Etchart\Desktop\Progra 2\Ejercitacion\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\obj\Debug\net6.0\EjercicioB.03.AssemblyInfo.cs
+C:\Users\Juan Pablo Etchart\Desktop\Progra 2\Ejercitacion\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\obj\Debug\net6.0\EjercicioB.03.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo Etchart\Desktop\Progra 2\Ejercitacion\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\obj\Debug\net6.0\EjercicioB.03.dll
+C:\Users\Juan Pablo Etchart\Desktop\Progra 2\Ejercitacion\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\obj\Debug\net6.0\refint\EjercicioB.03.dll
+C:\Users\Juan Pablo Etchart\Desktop\Progra 2\Ejercitacion\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\obj\Debug\net6.0\EjercicioB.03.pdb
+C:\Users\Juan Pablo Etchart\Desktop\Progra 2\Ejercitacion\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\obj\Debug\net6.0\EjercicioB.03.genruntimeconfig.cache
+C:\Users\Juan Pablo Etchart\Desktop\Progra 2\Ejercitacion\Ejercitacion\Etchart.JuanPablo\EjercicioB.03\obj\Debug\net6.0\ref\EjercicioB.03.dll
