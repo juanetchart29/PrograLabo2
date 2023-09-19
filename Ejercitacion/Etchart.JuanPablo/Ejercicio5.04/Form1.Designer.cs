@@ -30,13 +30,14 @@
         {
             gbInput = new GroupBox();
             btnAgregar = new Button();
-            textBox1 = new TextBox();
+            inputInt = new TextBox();
             gbListaNumeros = new GroupBox();
-            lboxLista = new ListBox();
+            listBox = new ListBox();
             bgOrden = new GroupBox();
-            button1 = new Button();
+            btnOrdenar = new Button();
             rbtnDescendente = new RadioButton();
             rbtnAscender = new RadioButton();
+            button1 = new Button();
             gbInput.SuspendLayout();
             gbListaNumeros.SuspendLayout();
             bgOrden.SuspendLayout();
@@ -45,7 +46,7 @@
             // gbInput
             // 
             gbInput.Controls.Add(btnAgregar);
-            gbInput.Controls.Add(textBox1);
+            gbInput.Controls.Add(inputInt);
             gbInput.Location = new Point(43, 137);
             gbInput.Name = "gbInput";
             gbInput.Size = new Size(322, 144);
@@ -63,16 +64,16 @@
             btnAgregar.UseVisualStyleBackColor = true;
             btnAgregar.Click += btnAgregar_Click;
             // 
-            // textBox1
+            // inputInt
             // 
-            textBox1.Location = new Point(24, 54);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(153, 23);
-            textBox1.TabIndex = 0;
+            inputInt.Location = new Point(24, 54);
+            inputInt.Name = "inputInt";
+            inputInt.Size = new Size(153, 23);
+            inputInt.TabIndex = 0;
             // 
             // gbListaNumeros
             // 
-            gbListaNumeros.Controls.Add(lboxLista);
+            gbListaNumeros.Controls.Add(listBox);
             gbListaNumeros.Location = new Point(400, 137);
             gbListaNumeros.Name = "gbListaNumeros";
             gbListaNumeros.Size = new Size(232, 318);
@@ -80,18 +81,18 @@
             gbListaNumeros.TabStop = false;
             gbListaNumeros.Text = "Lista de números";
             // 
-            // lboxLista
+            // listBox
             // 
-            lboxLista.FormattingEnabled = true;
-            lboxLista.ItemHeight = 15;
-            lboxLista.Location = new Point(34, 41);
-            lboxLista.Name = "lboxLista";
-            lboxLista.Size = new Size(167, 244);
-            lboxLista.TabIndex = 0;
+            listBox.FormattingEnabled = true;
+            listBox.ItemHeight = 15;
+            listBox.Location = new Point(34, 41);
+            listBox.Name = "listBox";
+            listBox.Size = new Size(167, 244);
+            listBox.TabIndex = 0;
             // 
             // bgOrden
             // 
-            bgOrden.Controls.Add(button1);
+            bgOrden.Controls.Add(btnOrdenar);
             bgOrden.Controls.Add(rbtnDescendente);
             bgOrden.Controls.Add(rbtnAscender);
             bgOrden.Location = new Point(43, 300);
@@ -101,14 +102,15 @@
             bgOrden.TabStop = false;
             bgOrden.Text = "Orden";
             // 
-            // button1
+            // btnOrdenar
             // 
-            button1.Location = new Point(220, 76);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 2;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            btnOrdenar.Location = new Point(220, 76);
+            btnOrdenar.Name = "btnOrdenar";
+            btnOrdenar.Size = new Size(75, 23);
+            btnOrdenar.TabIndex = 2;
+            btnOrdenar.Text = "Ordenar";
+            btnOrdenar.UseVisualStyleBackColor = true;
+            btnOrdenar.Click += btnOrdenar_Click;
             // 
             // rbtnDescendente
             // 
@@ -133,11 +135,21 @@
             rbtnAscender.Text = "Ascendente";
             rbtnAscender.UseVisualStyleBackColor = true;
             // 
+            // button1
+            // 
+            button1.Location = new Point(67, 479);
+            button1.Name = "button1";
+            button1.Size = new Size(271, 23);
+            button1.TabIndex = 3;
+            button1.Text = "button1";
+            button1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(663, 571);
+            Controls.Add(button1);
             Controls.Add(bgOrden);
             Controls.Add(gbListaNumeros);
             Controls.Add(gbInput);
@@ -157,10 +169,11 @@
         private GroupBox gbListaNumeros;
         private GroupBox bgOrden;
         private Button btnAgregar;
-        private TextBox textBox1;
-        private ListBox lboxLista;
-        private Button button1;
+        private TextBox inputInt;
+        private ListBox listBox;
+        private Button btnOrdenar;
         private RadioButton rbtnDescendente;
         private RadioButton rbtnAscender;
+        private Button button1;
     }
 }
